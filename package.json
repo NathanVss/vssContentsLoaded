@@ -1,0 +1,43 @@
+{
+  "name": "vss-auth",
+  "version": "0.0.1",
+  "description": "If you do some things when a template will be ( or is already ) loaded, use me !",
+  "main": "vssAuth.js",
+  "scripts": {
+    "test": "grunt karma"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:NathanVss/vssContentsLoaded.git"
+  },
+  "author": "Nathan Vasse",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/NathanVss/vssContentsLoaded/issues"
+  },
+  "homepage": "https://github.com/NathanVss/vssContentsLoaded#readme",
+  "dependencies": {
+    "angular": "1.4.7",
+    "angular-mocks": "1.5.0-rc.0",
+    "angular-route": "1.4.7",
+    "grunt": "~0.4.5",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-cssmin": "^0.14.0",
+    "grunt-contrib-jshint": "^0.11.3",
+    "grunt-contrib-less": "^1.1.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "~0.5.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-karma": "^0.12.1",
+    "grunt-release": "^0.13.0",
+    "install": "^0.4.0",
+    "jasmine-core": "^2.3.4",
+    "jquery": "1.11.2",
+    "karma": "^0.13.15",
+    "karma-chrome-launcher": "^0.2.2",
+    "karma-jasmine": "^0.3.6",
+    "karma-mocha-reporter": "^1.1.3",
+    "ngstorage": "^0.3.10",
+    "npm": "^3.5.0"
+  }
+}
