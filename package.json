@@ -1,6 +1,6 @@
 {
   "name": "vss-auth",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "If you do some things when a template will be ( or is already ) loaded, use me !",
   "main": "vssAuth.js",
   "scripts": {
